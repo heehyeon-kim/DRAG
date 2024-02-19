@@ -10,7 +10,7 @@ All codes are written by Heehyeon Kim (heehyeon@kaist.ac.kr) and Jinhyeok Choi (
   author={Heehyeon Kim, Jinhyeok Choi, and Joyce Jiyoung Whang},
   booktitle = {2023 IEEE International Conference on Data Mining Workshops (ICDMW)},
   title = {Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection},
-  year={2023},
+  year = {2023},
   pages = {1092-1096}
 }
 ```
